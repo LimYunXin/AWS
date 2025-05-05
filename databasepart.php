@@ -1,8 +1,8 @@
 <?php
 // AWS RDS Configuration
 $db_server = "clownwebserver.cvagvcnqo1ku.us-east-1.rds.amazonaws.com"; // Get this from AWS RDS console
-$db_user = "your_rds_username"; // Master username from RDS setup
-$db_pass = "your_rds_password"; // Master password from RDS setup
+$db_user = "admin"; // Master username from RDS setup
+$db_pass = "adminkoay"; // Master password from RDS setup
 $db_name = "assignment"; // Your database name in RDS
 $db_port = 3306; // Default MySQL port
 
